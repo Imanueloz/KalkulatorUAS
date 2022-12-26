@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KalkulatorUAS</string>
+    <string-array name="operasi">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
